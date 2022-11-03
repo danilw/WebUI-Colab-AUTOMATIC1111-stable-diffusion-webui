@@ -2,7 +2,7 @@
 **What is it** - Colab script for AUTOMATIC1111 stable-diffusion-webui https://github.com/AUTOMATIC1111/stable-diffusion-webui
 ___
 
-### If script stop working/you have errors - please redownload if script not working for you!
+### If script stop working/you have errors - please redownload (if script updated) if script not working for you!
 
 ### Or contact me: [**Join discord server**](https://discord.gg/JKyqWgt)
 ___
