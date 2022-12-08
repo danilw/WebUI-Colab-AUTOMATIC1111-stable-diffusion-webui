@@ -1,5 +1,7 @@
 # WebUI-Colab-AUTOMATIC1111-stable-diffusion-webui
 **What is it** - Colab script for AUTOMATIC1111 stable-diffusion-webui https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+*(tested December 2022 - works)*
 ___
 
 ### If script stop working/you have errors - please redownload (if script updated) if script not working for you!
